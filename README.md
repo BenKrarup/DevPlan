@@ -1,7 +1,7 @@
 DevPlan
 =======
 
-# A general Artificial Intelligence Planning framework for editting models and Developing Plans
+# A general Artificial Intelligence Planning framework for editing models and Developing Plans
 
 **Clone repository with**
 ```
