@@ -1,0 +1,71 @@
+# Prerequisites
+*.d
+
+*.txt
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+CMakeLists.txt.user
+build
+build/*
+
+*.cpp~
+*(copy).h
+*(copy).cpp
+
+CMakeLists.txt.user.*
+.gitignore~
+
+
+src/CMakeCache.txt
+src/CMakeFiles/*
+CMakeFiles/*
+Makefile
+app
+cmake_install.cmake
+src/Makefile
+src/app
+src/cmake_install.cmake
+*.pddl
+src/app
+dependencies/VAL
+
+common/original_plan.pddl
+dependencies/VAL/*
+common/xvalreport.txt
+*.orig
+
+
+
+
+
+*.pddl
+
