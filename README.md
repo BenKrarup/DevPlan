@@ -23,5 +23,5 @@ make
 **Demo**
 For console demo, in the build directory, run following after compiling the framework:
 ```
- /.app 
+ ./app 
  ```
